@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 import Link from 'next/link';
 import { useSaveTokenToCookie } from "../lib/saveTokenToCookie";
 
-const server = process.env.NEXT_PUBLIC_BACKEND_URL_LOCAL
+const server = process.env.NEXT_PUBLIC_BACKEND_URL
 
 const Login = () => {
     const [isSubmitting, setIsSubmitting] = useState(false)
