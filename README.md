@@ -1,4 +1,5 @@
 # Client-Side Authentication App
+![Repo Size](https://img.shields.io/github/repo-size/JayS-v/auth-client-side)
 
 ## Description
 Next.js/Tailwind CSS based authentication app with protected dynamic routes, Server-Side Rendering and JWT token management
