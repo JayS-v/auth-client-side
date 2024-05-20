@@ -14,7 +14,7 @@ You can login using pre-filled data:
 
 ![Login page screen](https://api.jayseyidov.com/auth-client-app-screens/login-page-screen.jpg)
 
-Or create your account `https://auth-client-app.jayseyidov.com/registration`. Ensure to **enter only fake data** for testing purposes!
+Or [create your account](https://auth-client-app.jayseyidov.com/registration). Ensure to **enter only fake data** for testing purposes!
 
 ![Registration page screen](https://api.jayseyidov.com/auth-client-app-screens/registration-page-screen.jpg)
 
