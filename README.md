@@ -4,19 +4,23 @@
 Next.js/Tailwind CSS based authentication app with protected dynamic routes, Server-Side Rendering and JWT token management
 
 ## Features
-- **Client-Side Authentication**: Secure client-side authentication using JWT tokens, stored in cookies and removed upon logout
+- **Client-Side Authentication**: Secure client-side authentication using JWT tokens stored in cookies and removed upon logout
 - **Dynamic Routing and Server-Side Rendering**: Next.js server-side components and URL management based on dynamic navigation and data fetching
 - **Protected Pages**: Custom hooks checking authentication tokens to secure specific pages
 - **Tailwind CSS Integration**
 
-## Test deployed app: [auth-client-app.jayseyidov.com](https://auth-client-app.jayseyidov.com)
-You can login using pre-filled data: 
+## Try the Deployed App: [auth-client-app.jayseyidov.com](https://auth-client-app.jayseyidov.com)
+You can log in using pre-filled data: 
 
-![Login page screen](https://api.jayseyidov.com/auth-client-app-screens/login-page-screen.jpg)
+<p align="center">
+    <img src="https://api.jayseyidov.com/auth-client-app-screens/login-page-screen.jpg" width="500" alt="Login page screen"/>
+</p>
 
 Or [create your account](https://auth-client-app.jayseyidov.com/registration). Ensure to **enter only fake data** for testing purposes!
 
-![Registration page screen](https://api.jayseyidov.com/auth-client-app-screens/registration-page-screen.jpg)
+<p align="center">
+    <img src="https://api.jayseyidov.com/auth-client-app-screens/registration-page-screen.jpg" width="500" alt="Registration page screen"/>
+</p>
 
 
 ## Set up locally
@@ -31,7 +35,10 @@ Or [create your account](https://auth-client-app.jayseyidov.com/registration). E
 
 - **`pages/`**: Contains Next.js pages for routing and dynamic URL queries, including protected pages: 
 
-![Registration page screen](https://api.jayseyidov.com/auth-client-app-screens/main-page-screen.jpg)
+<p align="center">
+    <img src="https://api.jayseyidov.com/auth-client-app-screens/main-page-screen.jpg" width="500" alt="Main page screen"/>
+</p>
+
 - **`pages/api`**: Server side functions to save tokens as Http only cookies or to remove them upon logout
 - **`components/`**: Contains reusable React components
 - **`lib/`**: Contains utility functions, custom hooks for authentication and token management and Higher-Order Components for page protection
