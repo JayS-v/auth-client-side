@@ -14,13 +14,13 @@ Next.js/Tailwind CSS based authentication app with protected dynamic routes, Ser
 You can log in using pre-filled data: 
 
 <p align="center">
-    <img src="https://api.jayseyidov.com/auth-client-app-screens/login-page-screen.jpg" width="500" alt="Login page screen"/>
+    <img src="https://api.jayseyidov.com/auth-client-app-screens/login-page-screen.jpg" width="300" alt="Login page screen"/>
 </p>
 
 Or [create your account](https://auth-client-app.jayseyidov.com/registration). Ensure to **enter only fake data** for testing purposes!
 
 <p align="center">
-    <img src="https://api.jayseyidov.com/auth-client-app-screens/registration-page-screen.jpg" width="500" alt="Registration page screen"/>
+    <img src="https://api.jayseyidov.com/auth-client-app-screens/registration-page-screen.jpg" width="300" alt="Registration page screen"/>
 </p>
 
 
